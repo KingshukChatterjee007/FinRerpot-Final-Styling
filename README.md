@@ -1,9 +1,6 @@
 # FinReport
 
 A sleek, responsive financial analysis report dashboard with light/dark mode toggle functionality.
-
-![FinReport Dashboard](https://raw.githubusercontent.com/KingshukChatterjee007/finreport/main/screenshot.png)
-
 ## Features
 
 - **Dual Theme Support**: Seamlessly switch between dark and light modes with user preference persistence
