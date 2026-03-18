@@ -2,7 +2,7 @@
 
 A sleek, responsive financial analysis report dashboard with light/dark mode toggle functionality.
 
-![FinReport Dashboard](https://raw.githubusercontent.com/username/finreport/main/screenshot.png)
+![FinReport Dashboard](https://raw.githubusercontent.com/KingshukChatterjee007/finreport/main/screenshot.png)
 
 ## Features
 
